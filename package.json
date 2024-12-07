@@ -9,7 +9,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/freeCodeCamp/boilerplate-npm.git"
+		"url": "git+https://github.com/RaulAM7/BackEnd-Node-FCC-Nuevo-boilerplate-npm"
 	},
  	"version": "1.2.0",
 	"description": "Esto es un trabajo para el free code camp, estamos dando npm ",
